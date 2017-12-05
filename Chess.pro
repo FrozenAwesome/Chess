@@ -4,7 +4,9 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    brett.cpp
+    brett.cpp \
+    game.cpp
 
 HEADERS += \
-    brett.h
+    brett.h \
+    game.h
